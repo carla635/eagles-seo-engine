@@ -1,0 +1,6 @@
+name = "eagles-seo-engine"
+main = "src/index.js"
+compatibility_date = "2024-09-01"
+
+[site]
+bucket = "./content"
