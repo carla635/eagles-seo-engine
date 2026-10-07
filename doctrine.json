@@ -1,0 +1,10 @@
+{
+  "governance": {
+    "freeze_period_days": 120,
+    "version": "1.0.0"
+  },
+  "content_rules": {
+    "engine": "eagles-seo-engine",
+    "strict_schema": true
+  }
+}
